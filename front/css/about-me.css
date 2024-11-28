@@ -1,0 +1,57 @@
+p{
+    text-align: justify;
+    color: whitesmoke;
+}
+
+#about-ivan{
+ 
+   margin-top: 1em;
+   margin: 2em;
+   width: 50em;
+   height: 10em;
+   font-weight: bold;
+   line-height: 1.6em;
+}
+
+#my-picture{
+    justify-content: left;
+    display: flex;
+    margin: auto;
+    position: relative;
+    margin-right: 9em;
+    margin-top: -24.7em;
+    width: 10em;
+}
+
+h2{
+    color: white;
+    font-size: 3em;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-bottom: 3em;
+    margin-top: 1em;
+    position: relative;
+}
+
+#hobbie{
+    margin: 2em;
+    margin-top: 10em;
+    text-align: justify;
+    width: 50em;
+    float: right;
+    font-weight: bold;
+    line-height: 1.6em;
+    position: relative;
+
+}
+
+#guitar{
+    justify-content: right;
+    display: flex;
+    margin: auto;
+    position: relative;
+    margin-right: 60em;
+    width: 10em;
+    margin-top: 10em;
+}

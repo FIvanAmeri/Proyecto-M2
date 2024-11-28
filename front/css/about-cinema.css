@@ -1,0 +1,99 @@
+h1{
+    color: white;
+    margin: 1em;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+
+#what-is-cinema{
+   
+   margin-top: 1em;
+   margin: auto;
+   width: 50em;
+   height: 10em;
+   font-weight: bold;
+   line-height: 1.6em;
+   text-align: center;
+   justify-content: center;
+   display: flex;
+   color:white; 
+}
+
+#what-is-cinema-2{
+   
+    top: 10em;
+    margin: auto;
+    width: 50em;
+    height: 10em;
+    font-weight: bold;
+    line-height: 1.6em;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    color:white;
+    position: relative;
+ }
+
+#first-cam{
+    position: relative;
+    margin: 1.5em;
+    margin-left: 0.7em;
+    transition: 1s;
+    top: -0.9em;
+    height: 10.5em;
+}
+#first-cam:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+#second-cam{
+    position: relative;
+    height: 10.5em;
+    width: 18em;
+    top: -1em;
+    transition: 1s;
+    margin-left: -0.9em;
+}
+
+#second-cam:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+#third-cam{
+    position: relative;
+    height: 10.5em;
+    width: 18em;
+    top: -1em;
+    margin-left: .5em;
+    transition: 1s;
+}
+
+#third-cam:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+#fourth-cam{
+    position: relative;
+    height: 10.5em;
+    width: 18em;
+    top: -1em;
+    margin-left: .5em;
+    transition: 1s;
+}
+
+#fourth-cam:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.carousel{
+    width: 300px;
+    margin: 0 auto;
+    top: 3em;
+    
+}
